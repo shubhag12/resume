@@ -1,0 +1,40 @@
+{
+	"basics": {
+		"name": "Shubh Agarwal",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/17cbyF1SK98-HmwNyGCYLTBJ0OmUFFAKsharing",
+		"email": "2020KUEC2022@iiitkota.ac.in",
+		"phone": "7895128456",
+		
+		"summary": "Currently enrolled in Electronics Communication  And Engineering in 1st year at the Indian Institute of Information Technology, Kota ",
+		"location": {
+			"address": "Kamla Nagar",
+			"postalCode": "282005",
+			"city": "Agra",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		}
+	
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-01",
+		"endDate": "2024-04-01",
+		"gpa": "8.35",
+		"courses": [
+			"Electronics Communication  & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript","Bootstrap 5" ,"ReactJs", "Redux", "PHP"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
